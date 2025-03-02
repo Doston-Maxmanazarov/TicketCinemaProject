@@ -1,4 +1,4 @@
-# Ticket Cinema Project
+# Ticket Cinema
 SwiftUi, Animation, MVVM, building a movie theater ticketing demo project using some cool technology.
 
 > ### Design
